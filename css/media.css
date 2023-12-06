@@ -1,0 +1,195 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* banner starts */
+    .cm_btn {
+        padding: 9px 20px !important;
+        font-size: 16px !important;
+    }
+    .slider{
+        padding: 30px 0;
+    }
+    .slider_content{
+        text-align: center;
+        margin-top: 30px;
+    }
+    /* about section starts */
+    .ab_p{
+        font-size: 14px;
+    }
+    /* services section starts */
+    .services{
+        padding: 50px 0;
+    }
+    .si_p{
+        font-size: 14px;
+        padding: 0 5px;
+    }
+    /* .features starts */
+    .features{
+        padding: 0;
+    }
+    .awe_h1{
+        font-size: 32px;
+    }
+    /* cars */
+    .cars{
+        padding: 50px 0;
+    }
+    .list_items {
+        padding: 15px 0px;
+    }
+    /* contact us section starts */
+    .contact{
+        padding: 30px 0;
+        
+    }
+    /* footer */
+    .fo_h5{
+        text-align: center;
+    }
+    footer {
+        padding: 50px 0 80px;
+    }
+    iframe{
+        width: 100%;
+        height: 100%;
+    }
+    .con_text{
+        margin: 35px 0;
+    }
+    .mb_con{
+        margin: 0;
+    }
+    .fot_p {
+        text-align: center;
+        padding: 0 3px;
+    }
+    
+    
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* banner starts */
+    .cm_btn {
+        padding: 9px 22px !important;
+        font-size: 16px !important;
+    }
+    .slider_content{
+        text-align: center;
+        margin-top: 30px;
+    }
+    /* services section starts */
+    .si_p{
+        font-size: 14px;
+        padding: 0 5px;
+    }
+    /* awesome services starts */
+    .awe_content {
+        padding: 0px 5px;
+    }
+    .awe_p{
+        font-size: 13px;
+    }
+    /* .cars */
+    .cars {
+        padding: 50px 0;
+    }
+    /* footer */
+    .fo_h5{
+        text-align: center;
+    }
+    footer {
+        padding: 50px 0 80px;
+    }
+    iframe{
+        width: 100%;
+        height: 100%;
+    }
+    .con_text{
+        margin: 35px 0;
+    }
+    .mb_con{
+        margin: 0;
+    }
+    
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* banner starts */
+    .slider_content{
+        text-align: center;
+        margin-top: 30px;
+    }
+    /* about section starts */
+    .ab_p{
+        font-size: 15px;
+    }
+    .ab_h2 {
+        padding: 15px 0 5px;
+    }
+    /* services section starts */
+    .si_p{
+        font-size: 14px;
+        padding: 0 5px;
+    }
+    /* .cars */
+    .list_items {
+        padding: 15px 5px;
+    }
+    .cars {
+        background-color: #d8d8d8ad;
+        padding: 50px 0;
+    }
+    /* awesome services starts */
+    .awe_content {
+        padding: 5px 10px;
+    }
+    /* footer */
+    footer {
+        padding: 50px 0 80px;
+    }
+    /* footer */
+    iframe{
+        width: 100%;
+        height: 100%;
+    }
+    
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* services section starts */
+    .si_p{
+        font-size: 13px ;
+    }
+    /* slider section starts */
+    .sli_h4 {
+        margin: 20px 0 15px;
+        font-size: 22px;
+    }
+    /* cars */
+    .list_items {
+        padding: 15px 5px;
+    }
+    /* footer */
+    iframe{
+        width: 280px;
+    }
+    
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /* footer */
+    iframe{
+        width: 360px;
+    }
+    
+  }
+
+ /* Extra Extra large devices (Extra large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    
+ }
